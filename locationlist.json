@@ -1,4 +1,4 @@
-[{
+{
   "data": [
     {
       "area":"關口",
@@ -95,8 +95,8 @@
         {"locality": "樟木頭","keyword":[]},
         {"locality": "企嶺下","keyword":[]},
         {"locality": "大圍","keyword":[]},
-        {"locality": "沙田","keyword":["排頭村"]},
-        {"locality": "火炭","keyword":["九肚山"]},
+        {"locality": "沙田","keyword":["九肚山","排頭村"]},
+        {"locality": "火炭","keyword":[]},
         {"locality": "馬料水","keyword":[]},
         {"locality": "白石角","keyword":["天賦海灣","科學園"]},
         {"locality": "烏溪沙","keyword":[]},
@@ -178,4 +178,3 @@
     }
   ]
 }
-]
