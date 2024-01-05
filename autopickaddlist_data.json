@@ -16,8 +16,8 @@
       "area":"離島區",
       "locality":[
         {"locality": "東涌","keyword":["東涌"]},
-        {"locality": "馬灣","keyword":["珀麗灣"]},
-        {"locality": "欣澳","keyword":["迪士尼","愉景灣"]}
+        {"locality": "馬灣","keyword":["珀麗灣","mawan"]},
+        {"locality": "欣澳","keyword":["迪士尼","愉景灣","discoverybay"]}
       ]
     },
     {
@@ -25,9 +25,9 @@
       "locality":[
         {"locality": "尖沙咀","keyword":["海港城"]},
         {"locality": "尖東","keyword":[]},
-        {"locality": "圓方","keyword":["ICC","icc","Commerce","Element","擎天半島","天璽","凱旋門","君臨天下","漾日居"]},
-        {"locality": "西九龍","keyword":[]},
-        {"locality": "紅磡灣","keyword":[]},
+        {"locality": "圓方","keyword":["icc","commerce","element","環球貿易廣場","麗思卡爾頓","whotel","擎天半島","天璽","凱旋門","君臨天下","漾日居"]},
+        {"locality": "西九龍","keyword":["m+"]},
+        {"locality": "紅磡灣","keyword":["黃埔"]},
         {"locality": "紅磡","keyword":["鶴園"]},
         {"locality": "太子","keyword":[]},
         {"locality": "旺角","keyword":[]},
@@ -36,7 +36,7 @@
         {"locality": "大角咀","keyword":[]},
         {"locality": "荔枝角","keyword":[]},
         {"locality": "長沙灣","keyword":[]},
-        {"locality": "深水埗","keyword":["塘尾","元洲"]},
+        {"locality": "深水埗","keyword":["塘尾","元洲","富昌邨"]},
         {"locality": "石硤尾","keyword":[]},
         {"locality": "又一村","keyword":[]},
         {"locality": "大窩坪","keyword":[]},
@@ -54,7 +54,7 @@
     {
       "area":"九龍東",
       "locality":[
-        {"locality": "畢架山","keyword":[]},
+        {"locality": "畢架山","keyword":["帝景峰","帝景峄"]},
         {"locality": "新蒲崗","keyword":[]},
         {"locality": "黃大仙","keyword":[]},
         {"locality": "東頭","keyword":[]},
@@ -72,7 +72,7 @@
         {"locality": "藍田","keyword":[]},
         {"locality": "油塘","keyword":[]},
         {"locality": "鯉魚門","keyword":[]},
-        {"locality": "康城","keyword":[]},
+        {"locality": "康城","keyword":["峻瀅"]},
         {"locality": "將軍澳","keyword":[]},
         {"locality": "寶琳","keyword":["魷魚灣"]},
         {"locality": "坑口","keyword":[]},
@@ -100,7 +100,7 @@
         {"locality": "馬料水","keyword":[]},
         {"locality": "白石角","keyword":["天賦海灣","科學園"]},
         {"locality": "烏溪沙","keyword":[]},
-        {"locality": "馬鞍山","keyword":[]},
+        {"locality": "馬鞍山","keyword":["聽濤雅苑"]},
         {"locality": "清水灣","keyword":[]},
         {"locality": "西貢","keyword":[]},
         {"locality": "大網仔","keyword":[]}
@@ -116,10 +116,10 @@
         {"locality": "掃管笏","keyword":[]},
         {"locality": "屯門","keyword":["新墟","虎地","藍地","蝴蝶灣"]},
         {"locality": "廈村","keyword":["木人巷"]},
-        {"locality": "洪水橋","keyword":[]},
+        {"locality": "洪水橋","keyword":["屏山"]},
         {"locality": "流浮山","keyword":[]},
-        {"locality": "天水圍","keyword":[]},
-        {"locality": "元朗","keyword":["大棠","大棠"]},
+        {"locality": "天水圍","keyword":["wetlandseasons","wetland","濕地公園"]},
+        {"locality": "元朗","keyword":["大棠","博愛","parkyoho","yoho","爾巒"]},
         {"locality": "新田","keyword":["錦綉花園","潭尾"]},
         {"locality": "錦田","keyword":[]},
         {"locality": "石崗","keyword":[]},
@@ -129,7 +129,7 @@
         {"locality": "葵涌","keyword":[]},
         {"locality": "青衣","keyword":[]},
         {"locality": "美孚","keyword":[]},
-        {"locality": "屯天元","keyword":["大欖涌","掃管笏","屯門","廈村","洪水橋","流浮山","天水圍","元朗","新墟","虎地","藍地","蝴蝶灣","木人巷","大棠","博愛","Yoho","yoho"]}
+        {"locality": "屯天元","keyword":["大欖涌","掃管笏","屯門","廈村","洪水橋","流浮山","天水圍","元朗","新墟","虎地","藍地","蝴蝶灣","木人巷","屏山","大棠","博愛","parkyoho","yoho"]}
       ]
     },
     {
@@ -144,7 +144,7 @@
         {"locality": "半山","keyword":[]},
         {"locality": "山頂","keyword":[]},
         {"locality": "灣仔","keyword":["摩利臣山"]},
-        {"locality": "銅鑼灣","keyword":["東角"]},
+        {"locality": "銅鑼灣","keyword":["東角","铜锣湾","鵝頸","時代廣場"]},
         {"locality": "跑馬地","keyword":["禮頓山"]},
         {"locality": "炮台山","keyword":[]},
         {"locality": "掃桿埔","keyword":[]},
