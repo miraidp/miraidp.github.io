@@ -128,7 +128,8 @@
         {"locality": "梨木樹","keyword":[]},
         {"locality": "葵涌","keyword":[]},
         {"locality": "青衣","keyword":[]},
-        {"locality": "美孚","keyword":[]}
+        {"locality": "美孚","keyword":[]},
+        {"locality": "屯天元","keyword":["大欖涌","掃管笏","屯門","廈村","洪水橋","流浮山","天水圍","元朗","新墟","虎地","藍地","蝴蝶灣","木人巷","大棠","博愛","Yoho","yoho"]}
       ]
     },
     {
@@ -145,7 +146,7 @@
         {"locality": "灣仔","keyword":["摩利臣山"]},
         {"locality": "銅鑼灣","keyword":["東角"]},
         {"locality": "跑馬地","keyword":["禮頓山"]},
-        {"locality": "大坑","keyword":[]},
+        {"locality": "炮台山","keyword":[]},
         {"locality": "掃桿埔","keyword":[]},
         {"locality": "渣甸山","keyword":[]},
         {"locality": "天后","keyword":[]},
