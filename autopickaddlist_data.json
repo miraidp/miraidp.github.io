@@ -4,7 +4,7 @@
       "area":"關口",
       "locality":[
         {"locality": "P1機場","keyword":["機場","運輸中心","airport","客運大樓"]},
-        {"locality": "赤鱲角","keyword":["機場"]},
+        {"locality": "赤鱲角","keyword":["機場","airport","亞博","asiaWorld"]},
         {"locality": "港珠澳","keyword":["港珠澳"]},
         {"locality": "深圳灣","keyword":["堔圳灣"]},
         {"locality": "落馬洲","keyword":["皇崗","皇岗","福田"]},
@@ -56,14 +56,14 @@
         {"locality": "鹿頸","keyword":[]},
         {"locality": "烏蛟騰","keyword":[]},
         {"locality": "大埔墟","keyword":[]},
-        {"locality": "大埔","keyword":["汀角","大尾篤"]},
         {"locality": "大埔滘","keyword":["大埔滘"]},
+        {"locality": "大埔","keyword":["汀角","大尾篤"]},
         {"locality": "船灣","keyword":[]},
         {"locality": "樟木頭","keyword":[]},
         {"locality": "企嶺下","keyword":[]},
         {"locality": "大圍","keyword":[]},
-        {"locality": "沙田","keyword":["九肚山","排頭村"]},
-        {"locality": "火炭","keyword":[]},
+        {"locality": "沙田","keyword":["排頭村"]},
+        {"locality": "火炭","keyword":["九肚山"]},
         {"locality": "馬料水","keyword":[]},
         {"locality": "白石角","keyword":["天賦海灣","科學園"]},
         {"locality": "烏溪沙","keyword":[]},
@@ -80,8 +80,8 @@
         {"locality": "尖東","keyword":[]},
         {"locality": "圓方","keyword":["icc","commerce","element","環球貿易廣場","麗思卡爾頓","whotel","擎天半島","天璽","凱旋門","君臨天下","漾日居"]},
         {"locality": "西九龍","keyword":["m+"]},
-        {"locality": "紅磡灣","keyword":["黃埔"]},
-        {"locality": "紅磡","keyword":["鶴園"]},
+        {"locality": "紅磡灣","keyword":["黃埔","海韻軒","嘉里酒店","紅館"]},
+        {"locality": "紅磡","keyword":["大環","鶴園"]},
         {"locality": "太子","keyword":[]},
         {"locality": "旺角","keyword":[]},
         {"locality": "油麻地","keyword":[]},
@@ -109,7 +109,7 @@
       "locality":[
         {"locality": "畢架山","keyword":["帝景峰","帝景峄"]},
         {"locality": "新蒲崗","keyword":[]},
-        {"locality": "黃大仙","keyword":[]},
+        {"locality": "黃大仙","keyword":["竹園"]},
         {"locality": "東頭","keyword":[]},
         {"locality": "橫頭磡","keyword":[]},
         {"locality": "樂富","keyword":[]},
@@ -165,7 +165,7 @@
     {
       "area":"南區",
       "locality":[
-        {"locality": "薄扶林","keyword":["鋼綫灣","數碼港","瀑布灣","貝沙灣","碧瑤灣"]},
+        {"locality": "薄扶林","keyword":["鋼綫灣","數碼港","瀑布灣","貝沙灣","碧瑤灣","瑪麗醫院"]},
         {"locality": "香港仔","keyword":["田灣","石排灣"]},
         {"locality": "鴨脷洲","keyword":["海怡半島","利東"]},
         {"locality": "黃竹坑","keyword":["深灣","海洋公園"]},
@@ -173,7 +173,7 @@
         {"locality": "淺水灣","keyword":[]},
         {"locality": "舂磡角","keyword":[]},
         {"locality": "赤柱","keyword":["東頭灣"]},
-        {"locality": "大潭","keyword":[]},
+        {"locality": "大潭","keyword":["大潭篤"]},
         {"locality": "石澳","keyword":[]}
       ]
     }
