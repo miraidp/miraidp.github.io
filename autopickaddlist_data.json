@@ -4,7 +4,7 @@
       "area":"關口",
       "locality":[
         {"locality": "P1機場","keyword":["運輸中心","客運大樓"]},
-        {"locality": "赤鱲角","keyword":["客運大樓","亞博","asiaWorld"]},
+        {"locality": "赤鱲角","keyword":["赤鱲角","客運大樓","亞博","asiaWorld"]},
         {"locality": "港珠澳","keyword":["港珠澳"]},
         {"locality": "深圳灣","keyword":["堔圳灣"]},
         {"locality": "落馬洲","keyword":["皇崗","皇岗","福田"]},
